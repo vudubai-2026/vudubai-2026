@@ -36,8 +36,7 @@
 ### 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nonamebrub-max&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamebrub-max&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" />
+  <img src="https://raw.githubusercontent.com/nonamebrub-max/nonamebrub-max/main/github-metrics.svg" width="100%" />
 </div>
 
 ---
